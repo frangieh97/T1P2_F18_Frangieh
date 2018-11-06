@@ -1,0 +1,12 @@
+commit 61c039dd775f6a00616a49e160a179e07c6a74fe (HEAD -> master, origin/master)
+Author: joseph <abouzouz97@gmail.com>
+Date:   Tue Nov 6 06:54:11 2018 -0500
+
+    created the new script
+
+commit 0eb267937a01f097ba47ecc38b032aecf724b41d
+Author: joseph <abouzouz97@gmail.com>
+Date:   Tue Nov 6 06:35:44 2018 -0500
+
+    created git
+
